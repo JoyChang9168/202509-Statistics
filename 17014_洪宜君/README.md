@@ -1,2 +1,2 @@
-"I'm Sunny. I work in insurance investment. I enjoy programming and learning new things!"
+"I'm Sunny. I work in the Investment Department of a life insurance company, focusing on asset management and financial planning. I also enjoy programming and continuous learning"
 
