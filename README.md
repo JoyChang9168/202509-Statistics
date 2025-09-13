@@ -27,7 +27,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 16   | 財金專1    | 514717015  | 陳書宇 [GitHub](https://github.com/pc20245678-design) |
 | 17   | 財金專1    | 514717016  | 張如君 |
 | 18   | 財金專1    | 514717017  | 葉岡麟 |
-| 19   | 財金專1    | 514717022  | 吳玉觀 |
+| 19   | 財金專1    | 514717022  | 吳玉觀  [GitHub](https://github.com/IsabelWu99)|
 | 20   | 財金專1    | 514717024  | 楊昶輝 |
 | 21   | 財金專1    | 514717025  | 陳俊呈 |
 | 22   | 財金專1    | 514717028  | 江明峰 |
