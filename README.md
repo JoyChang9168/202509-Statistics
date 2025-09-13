@@ -17,7 +17,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 6    | 財金專2    | 513717019  | 陳姿君 |
 | 7    | 科管專2    | 513718007  | 張馥丞 |
 | 8    | 工管專1    | 514714016  | 劉怡伶 |
-| 9    | 財金專1    | 514717003  | 陳泓瑋 |
+| 9    | 財金專1    | 514717003  | 陳泓瑋 [GitHub](https://github.com/willy8aass) |
 | 10   | 財金專1    | 514717004  | 吳廷莉 [GitHub](https://github.com/m401880821)|
 | 11   | 財金專1    | 514717007  | 黃士瑋 [GitHub](https://github.com/shih-wei0913)|
 | 12   | 財金專1    | 514717009  | 李致皜 [GitHub](https://github.com/BboyKTD) |
