@@ -35,4 +35,4 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 24   | 財金所學分班 | IOF113015 | 林煒軒 |
 | 25   | 財金所學分班 | IOF113035 | 李姿怡 |
 | 26   | 財金所學分班 | IOF113029 | 王俊偉 |
-| 27   | 財金專1    | 514717008  | 雷力誌 |
+| 27   | 財金專1    | 514717008  | 雷力誌 [GitHub](https://github.com/raymg14)|
