@@ -19,7 +19,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 8    | 工管專1    | 514714016  | 劉怡伶 |
 | 9    | 財金專1    | 514717003  | 陳泓瑋 |
 | 10   | 財金專1    | 514717004  | 吳廷莉 |
-| 11   | 財金專1    | 514717007  | 黃士瑋 |
+| 11   | 財金專1    | 514717007  | 黃士瑋 [GitHub](https://github.com/shih-wei0913)|
 | 12   | 財金專1    | 514717009  | 李致皜 [GitHub](https://github.com/BboyKTD) |
 | 13   | 財金專1    | 514717010  | 蔡玫宜 |
 | 14   | 財金專1    | 514717012  | 陳美勤 |
