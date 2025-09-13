@@ -22,7 +22,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 11   | 財金專1    | 514717007  | 黃士瑋 [GitHub](https://github.com/shih-wei0913)|
 | 12   | 財金專1    | 514717009  | 李致皜 [GitHub](https://github.com/BboyKTD) |
 | 13   | 財金專1    | 514717010  | 蔡玫宜 |
-| 14   | 財金專1    | 514717012  | 陳美勤 |
+| 14   | 財金專1    | 17012  | 陳美勤 [GitHub](https://github.com/miyo-chen) |
 | 15   | 財金專1    | 514717014  | 洪宜君 [GitHub](https://github.com/imsunny0527-Sunn)|
 | 16   | 財金專1    | 514717015  | 陳書宇 [GitHub](https://github.com/pc20245678-design) |
 | 17   | 財金專1    | 514717016  | 張如君 |
