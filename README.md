@@ -34,5 +34,5 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 23   | 財金所學分班 | IOF113028 | 曾玉燕 [GitHub](http://github.com/NorahTseng)|
 | 24   | 財金所學分班 | IOF113015 | 林煒軒 [GitHub](http://github.com/bimy09233)|
 | 25   | 財金所學分班 | IOF113035 | 李姿怡 |
-| 26   | 財金所學分班 | IOF113029 | 王俊偉 |
+| 26   | 財金所學分班 | IOF113029 | 王俊偉 [GitHub](https://github.com/awei1218-Wang)|
 | 27   | 財金專1    | 514717008  | 雷力誌 [GitHub](https://github.com/raymg14)|
