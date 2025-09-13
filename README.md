@@ -10,7 +10,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 |------|------------|------------|--------|
 | 0 | Prof. | xxxxx| 鄧惠文 [GitHub](https://github.com/venteng) |
 | 1    | 財金博1    | 414707003  | 李冠佑 [GitHub](https://github.com/AndyLi1024) |
-| 2    | 財金專3    | 512717027  | 陳昱橙 |
+| 2    | 財金專3    | 512717027  | 陳昱橙  [GitHub](https://github.com/yuchengchen3011)|
 | 3    | 財金專2    | 513717009  | 宋明峰 [GitHub](https://github.com/forworksung-creator)||
 | 4    | 財金專2    | 513717016  | 鄧凱蓮 [GitHub](https://github.com/tang82002-ctrl) |
 | 5    | 財金專2    | 513717018  | 黃宗堂 |
