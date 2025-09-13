@@ -13,7 +13,7 @@ Please fill in your gitHUB info in the [Google Sheet](https://docs.google.com/sp
 | 2    | 財金專3    | 512717027  | 陳昱橙  [GitHub](https://github.com/yuchengchen3011)|
 | 3    | 財金專2    | 513717009  | 宋明峰 [GitHub](https://github.com/forworksung-creator)||
 | 4    | 財金專2    | 513717016  | 鄧凱蓮 [GitHub](https://github.com/tang82002-ctrl) |
-| 5    | 財金專2    | 513717018  | 黃宗堂 |
+| 5    | 財金專2    | 513717018  | 黃宗堂 [GitHub](https://github.com/y192837830) |
 | 6    | 財金專2    | 513717019  | 陳姿君 |
 | 7    | 科管專2    | 513718007  | 張馥丞 |
 | 8    | 工管專1    | 514714016  | 劉怡伶 |
